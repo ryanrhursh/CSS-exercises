@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//talentlms.com//Talentlms 5.7//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ilt_event_688@pitt.talentlms.com
+CREATED:20231121T190000Z
+DTSTAMP:20231121T190000Z
+DTSTART:20231121T190000Z
+DTEND:20231121T210000Z
+LOCATION:
+DESCRIPTION:Please Join the training via Zoom with the following details:  Session Date: 11/21/2023 Session Time: 2 PM - 4 PM Zoom Session link: https://pitt.zoom.us/j/96054287485 Zoom Passcode: 815246 Zoom ID: 960 5428 7485 
+X-ALT-DESC;FMTTYPE=text/html:<br>Please Join the training via Zoom with the following details:<br> <blockquote> Session Date: 11/21/2023 <br>Session Time: 2 PM - 4 PM <br>Zoom Session link: https://pitt.zoom.us/j/96054287485 <br>Zoom Passcode: 815246 <br>Zoom ID: 960 5428 7485 </blockquote>
+SUMMARY:112123 - Microaggression and Implicit Bias - Part 2 Session 2
+LAST-MODIFIED:20231121T190000Z
+ORGANIZER;CN=Balazs Kudelasz:mailto:BAK97@pitt.edu
+PRIORITY:5
+SEQUENCE:2
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
